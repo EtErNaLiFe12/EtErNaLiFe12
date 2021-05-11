@@ -8,8 +8,7 @@
 - 📫 How to reach me: Please contact me via wnsqja8888@gmail.com.
 
 - 현재 FE-개발자 관련하여 프로그래밍 언어 공부중 입니다.
-- 혹시 협업 프로젝트 하실분들이나 하시고 계시거나 하실 스터디 그룹을 찾고 있습니다.
-- 연락 방법: wnsqja8888@gmail.com으로 연락 부탁드립니다.
+- 연락 방법: wnsqja8888@gmail.com.
 
 
 
