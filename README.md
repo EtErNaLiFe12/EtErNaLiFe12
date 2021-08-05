@@ -7,7 +7,6 @@
 - 🤔 I’m looking for people or any study groups to do cooperation project.
 - 📫 How to reach me: Please contact me via wnsqja8888@gmail.com.
 
-- 현재 FE-개발자 관련하여 프로그래밍 언어 공부중 입니다.
 - 연락 방법: wnsqja8888@gmail.com.
 - Project : 정적 사이트 / 동적 사이트 / 포트폴리오 작업
 
