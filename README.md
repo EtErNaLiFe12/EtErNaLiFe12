@@ -3,7 +3,7 @@
 <!--
 **EtErNaLiFe12/EtErNaLiFe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🌱 I’m Junior FE developer.
+- 🌱 I’m a Junior FE developer.
 - 🤔 I’m looking for people or any study groups to do cooperation project.
 - 📫 How to reach me: Please contact me via wnsqja8888@gmail.com.
 
