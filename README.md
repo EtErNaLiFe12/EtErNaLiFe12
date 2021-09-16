@@ -10,7 +10,7 @@
 - 연락 방법: wnsqja8888@gmail.com.
 - Project : 정적 사이트 / 동적 사이트 / 포트폴리오 작업
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtErNaLiFe)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EtErNaLiFe12)](https://github.com/EtErNaLiFe12/github-readme-stats)
 
 
 
