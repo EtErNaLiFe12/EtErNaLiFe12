@@ -4,7 +4,7 @@
 **EtErNaLiFe12/EtErNaLiFe12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🌱 I’m a Junior FE developer.
-- 🤔 I’m looking for people or any study groups to do cooperation project.
+- 🤔✨ Time for get all ducks in a row
 - 📫 How to reach me: Please contact me via wnsqja8888@gmail.com.
 
 - 연락 방법: wnsqja8888@gmail.com.
