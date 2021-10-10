@@ -6,7 +6,7 @@
 - 🌱 I’m a Junior FE developer.
 - 🤔✨ Time for get all ducks in a row
 - 📫 How to reach me: Please contact me via wnsqja8888@gmail.com.
-- Techical stack : HTML5 / CSS / SCSS / JAVASCRIPT / NEXTjs / REACT / REACT NATIVE
+- Techical stack : HTML5 / CSS / SCSS / JAVASCRIPT / REACT / NEXTJS / REACT NATIVE
 - 연락 방법: wnsqja8888@gmail.com.
 <!-- - Project : 정적 사이트 / 동적 사이트 / 포트폴리오 작업 -->
 
