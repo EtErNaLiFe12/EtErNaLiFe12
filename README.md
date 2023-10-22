@@ -1,6 +1,6 @@
 ## EtErNaLiFe12 👋
 
-- 🌱 I’m a Junior FE developer.
+- 🌱 FE developer.
 - 🤔✨ Time for get all ducks in a row
 - 📫 How to reach: Please contact me via wnsqja8888@gmail.com.
 
